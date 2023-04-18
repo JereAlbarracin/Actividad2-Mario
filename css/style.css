@@ -23,7 +23,7 @@ p{
     font-family: 'Shadows Into Light', cursive;
     line-height: 1.5;
 }
-.Mario1{
+.mario1{
     color:aliceblue;
     font-size: large;
     font-weight:normal;
@@ -33,7 +33,7 @@ p{
     background-size: contain;
     background-repeat:unset;
 }
-.Mario2{
+.mario2{
     font-size:larger;
     font-weight: bolder;
     background-image: 
@@ -41,14 +41,14 @@ p{
     background-position:bottom;
     background-size:cover;
 }
-.Mario3{
+.mario3{
     color:aliceblue;
     font-size:larger;
     background-image: url(../img/method-sl30.gif);
     background-position:bottom;
     background-size:cover;
 }
-.Mario4{
+.mario4{
     font-size:larger;
     font-weight: bold;
     background-image: url(../img/Fondo\ Super\ Mario.jpeg);
